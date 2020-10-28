@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Test Git qiuck start demo
+=======
+ Test Git Quick Demo
+>>>>>>> a50565656259ad453aff49e649c8805452caddc1
